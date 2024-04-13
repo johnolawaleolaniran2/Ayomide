@@ -1,0 +1,70 @@
+[33mcommit a9b1e3763f4c4e14d3c7dbcabcdc2a64945264c4[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Ayomide <johnolawaleolaniran2@gmail.com>
+Date:   Fri Apr 12 20:40:40 2024 -0700
+
+    first commit - committing all fil
+    es to the repository
+
+[1mdiff --git a/site/index.html b/site/index.html[m
+[1mindex e69de29..06a9a74 100644[m
+[1m--- a/site/index.html[m
+[1m+++ b/site/index.html[m
+[36m@@ -0,0 +1,9 @@[m
+[32m+[m[32m<!DOCTYPE html>[m
+[32m+[m[32m<html>[m
+[32m+[m[32m<head>[m
+[32m+[m	[32m<title>Hello Coursera!</title>[m
+[32m+[m[32m</head>[m
+[32m+[m[32m<body>[m
+[32m+[m[32m<h1>Hello Coursera! It's a great course!</h1>[m
+[32m+[m[32m</body>[m
+[32m+[m[32m</html>[m
+\ No newline at end of file[m
+
+[33mcommit 00b92bd839b7db1e0f2bd2c0b007c8a99a4d4123[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Ayomide <oladiranjohn062@gmail.com>
+Date:   Thu Apr 11 16:55:50 2024 -0700
+
+    My First Page
+
+[1mdiff --git a/index.html b/index.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..06ae699[m
+[1m--- /dev/null[m
+[1m+++ b/index.html[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32m"Hello World"[m
+[1mdiff --git a/site/ayomide b/site/ayomide[m
+[1mnew file mode 100644[m
+[1mindex 0000000..0e75f31[m
+[1m--- /dev/null[m
+[1m+++ b/site/ayomide[m
+[36m@@ -0,0 +1,9 @@[m
+[32m+[m[32m<!DOCTYPE html>[m
+[32m+[m[32m<html>[m
+[32m+[m[32m<head>[m
+[32m+[m	[32m<title>Hello Coursera!</title>[m
+[32m+[m[32m</head>[m
+[32m+[m[32m<body>[m
+[32m+[m[32m<h1>Hello Coursera!</h1>[m
+[32m+[m[32m</body>[m
+[32m+[m[32m</html>[m
+\ No newline at end of file[m
+[1mdiff --git a/site/index.html b/site/index.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+
+[33mcommit 37574fc28e78a20aaec9997fe5f39bf97c6b0ce4[m
+Author: johnolawaleolaniran2 <86230159+johnolawaleolaniran2@users.noreply.github.com>
+Date:   Thu Apr 11 02:44:05 2024 -0700
+
+    Initial commit
+
+[1mdiff --git a/README.md b/README.md[m
+[1mnew file mode 100644[m
+[1mindex 0000000..c5f2948[m
+[1m--- /dev/null[m
+[1m+++ b/README.md[m
+[36m@@ -0,0 +1,2 @@[m
+[32m+[m[32m# Ayomide[m
+[32m+[m[32mcoursera online coding course[m
